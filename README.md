@@ -1,6 +1,6 @@
 # Pilote framework
 pilot framework of a project reactjs
-[Source](https://enimamouss.github.io/piloteFrame/)
+[GitHub Pages](https://enimamouss.github.io/piloteFrame/)
 
 ## Getting Started
 
